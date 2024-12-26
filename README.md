@@ -20,7 +20,7 @@
 </h1>
 <p>
  
-A simpple weather application using Jetpack Compose, Retrofit and Open Weather API. I made this app with the aim of learn more about Retrofit and HTTP Requests
+A simple weather application using Jetpack Compose, Retrofit and Open Weather API. I made this app with the aim of learn more about Retrofit and HTTP Requests
 </p>
 
 <br/>
