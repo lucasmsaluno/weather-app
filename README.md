@@ -8,7 +8,7 @@
  
 
   <h4>
-    <img src="assets/weatherappgif.gif" width="300px" align="center"/>
+    <img src="assets/weatherappgif2.gif" width="300px" align="center"/>
   </h4>
 
 
