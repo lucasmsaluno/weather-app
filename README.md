@@ -33,6 +33,8 @@ A simple weather application using Jetpack Compose, Retrofit and Open Weather AP
 - Kotlin
 - Jetpack Compose
 - Android Studio
+- Dagger Hilt
+- Retrofit
 
 </div>
 
